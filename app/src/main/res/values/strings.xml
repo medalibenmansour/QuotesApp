@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+    <string name="fetch_quote">Fetch Quote</string>
+    <string name="save_to_db">Save to DB</string>
+</resources>
